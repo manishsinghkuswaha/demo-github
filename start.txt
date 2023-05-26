@@ -1,2 +1,3 @@
 This is new text file
+new update
 ths is new commit
